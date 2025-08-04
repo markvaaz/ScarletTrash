@@ -1,0 +1,10 @@
+{
+  "name": "ScarletTrash",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/markvaaz/ScarletTrash",
+  "description": "Automatically deletes items placed in containers with 'STrash' in their name after 15 seconds.",
+  "dependencies": [
+    "BepInEx-BepInExPack_V_Rising-1.733.2",
+    "ScarletMods-ScarletCore-1.1.20"
+  ]
+}
